@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b321d0a7.css",
+    "main.js": "/static/js/main.0cee7718.js",
+    "static/media/IPhone_XS_Max.jpg": "/static/media/IPhone_XS_Max.9cb40d4e264364bad13c.jpg",
+    "static/media/IPhone_11_Pro_Max.png": "/static/media/IPhone_11_Pro_Max.fec18bc5e14b3598d388.png",
+    "static/media/IPhone_13_Pro_Max.png": "/static/media/IPhone_13_Pro_Max.f54d19747856454bf473.png",
+    "static/media/IPhone_13_Pro.png": "/static/media/IPhone_13_Pro.108cac5e881aa0e0c911.png",
+    "static/media/IPhone_11.png": "/static/media/IPhone_11.e8a65ca00a12fb5acb4c.png",
+    "static/media/IPhone_13.png": "/static/media/IPhone_13.a951749f8f6795839343.png",
+    "static/media/IPhone_13_mini.png": "/static/media/IPhone_13_mini.a564abba977cc0de167a.png",
+    "static/media/iphone-6s-plus-1.jpg": "/static/media/iphone-6s-plus-1.b1c430a2005f9c94376a.jpg",
+    "static/media/iphone-6-1.jpg": "/static/media/iphone-6-1.ef7689b086f41475287c.jpg",
+    "static/media/Iphone11pro.jpg": "/static/media/Iphone11pro.5cc7108c4da2dcbbddf6.jpg",
+    "static/media/iphone-xs-max-5.jpg": "/static/media/iphone-xs-max-5.c2f19a45f1fd4fe590d3.jpg",
+    "static/media/iphone-7-1.jpg": "/static/media/iphone-7-1.83490709d49773ce98a1.jpg",
+    "static/media/iphone-6-plus-1.jpg": "/static/media/iphone-6-plus-1.1228e34007c633b9fd36.jpg",
+    "static/media/iphone-x-1.jpg": "/static/media/iphone-x-1.3c127bb95cd79b0f7f09.jpg",
+    "static/media/iphone-7-plus-03.jpg": "/static/media/iphone-7-plus-03.b50023e740d67e3bc499.jpg",
+    "static/media/iphone-xr-2.jpg": "/static/media/iphone-xr-2.6144adf51c5afd2d1da9.jpg",
+    "static/media/iphone-6s-2.jpg": "/static/media/iphone-6s-2.ae3835654b4548cfa063.jpg",
+    "static/media/iphone-8-plus-0.jpg": "/static/media/iphone-8-plus-0.ff38ddbd0461fe43830f.jpg",
+    "static/media/iphone-8-1.jpg": "/static/media/iphone-8-1.26caeb0e329dd5889249.jpg",
+    "static/media/IPhone_12_Pro_Max.jpg": "/static/media/IPhone_12_Pro_Max.6508315a862209a477a2.jpg",
+    "static/media/IPhone_12_Pro.jpg": "/static/media/IPhone_12_Pro.4498860f24c704a13c45.jpg",
+    "static/media/IPhone_12.jpg": "/static/media/IPhone_12.514aedea5624c6ba8895.jpg",
+    "static/media/IPhone_12_mini.jpg": "/static/media/IPhone_12_mini.53e15140eeb253389aff.jpg",
+    "index.html": "/index.html",
+    "main.b321d0a7.css.map": "/static/css/main.b321d0a7.css.map",
+    "main.0cee7718.js.map": "/static/js/main.0cee7718.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b321d0a7.css",
+    "static/js/main.0cee7718.js"
+  ]
+}
